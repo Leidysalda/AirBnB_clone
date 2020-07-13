@@ -21,11 +21,11 @@ h4 {
 
 .filters .amenities {
     height: 100%;
-    widht: 25%;
+    width: 25%;
     padding-left: 50px
 }
 
-popover {
+.popover {
     color: #FAFAFA;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
@@ -45,10 +45,10 @@ ul, li {
     text-decoration: none;
     display: block;
     color: black;
-    padding 5px 0px
+    padding: 5px 0px
 }
 
-.location:hover > .popover {
+.locations:hover > .popover {
     display: block;
 }
 
