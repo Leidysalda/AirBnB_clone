@@ -1,0 +1,30 @@
+.places {
+    text-aling: left;
+    font-size: 30px;
+    margin-left: 30px;
+    padding: 0px
+}
+
+.dos {
+    clear: both;
+    width: 390px;
+    padding: 7px;
+    margin: 20px 0px 0px 250px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px
+}
+
+.article {
+    width:390px;
+    padding: 8px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    display: inline-block;
+    vertical-aling: middle
+}
+
+h2 {
+    font-size: 30px;
+    text-aling: center
+}
