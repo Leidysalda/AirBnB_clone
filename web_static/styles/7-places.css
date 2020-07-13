@@ -7,6 +7,7 @@
 
 .dos {
     clear: both;
+    height: 80px
     width: 390px;
     padding: 7px;
     margin: 20px 0px 0px 250px;
@@ -15,6 +16,7 @@
 }
 
 .article {
+    height: 80px;
     width:390px;
     padding: 8px;
     margin: 20px;
